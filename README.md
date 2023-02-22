@@ -1,16 +1,27 @@
-### Hi there 👋
+# Hi everyone, It's socketshh ! </b><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 
-<!--
-**socketshh/socketshh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+![83adfc6e00273fac549747a0eb3b4487](https://user-images.githubusercontent.com/126118656/220773159-0a658d32-48c9-4bbb-9936-ea13e7269673.gif)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+
+
+# 👨‍💻 About me : 
+
+      My Discord account is : socket3shh#7066
+      To contact me : socketshh@riseup.net
+      Futur website : https://socketsh.fr/
+```json
+ {
+    "name":"Clément",
+    "age":14,
+    "location":"France"
+     "skills":
+        [
+        "Programming",
+        "SysAdmin",
+        "Network",
+        "Pentesting"
+        ],
+}
+```
