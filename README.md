@@ -9,7 +9,7 @@
 # 👨‍💻 About me : 
 
       My Discord account is : Sendax#6699
-      To contact me : polatron@riseup.ner
+      To contact me : polatron@riseup.net
       Futur website : https://sendax.fr/
 ```json
  {
