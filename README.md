@@ -1,7 +1,7 @@
 # Hi everyone, It's Sendax ! </b><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 
 
-![83adfc6e00273fac549747a0eb3b4487](https://user-images.githubusercontent.com/126118656/220773159-0a658d32-48c9-4bbb-9936-ea13e7269673.gif)
+![image](https://github.com/sendax-sh/sendax-sh/assets/126118656/5436065b-981f-4a44-a204-3c471979b42c)
 
 
 
@@ -9,7 +9,7 @@
 # 👨‍💻 About me : 
 
       My Discord account is : Sendax#6699
-      To contact me : polatron@riseup.net
+      To contact me : sendaxrsp@riseup.net
       Futur website : https://sendax.fr/
 ```json
  {
@@ -20,9 +20,13 @@
         [
         "Programming",
         "SysAdmin",
+        "Maths",
         "Network",
-        "Pentesting"
+        "AI"
         ],
 }
 ```
 (Old name : socketshh).
+
+
+![image](https://github.com/sendax-sh/sendax-sh/assets/126118656/1b6ded0a-098c-4546-a46c-25837953d856)
